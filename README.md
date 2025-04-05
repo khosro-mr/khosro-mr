@@ -1,16 +1,16 @@
-## Hi there 👋
+## Khosro Mohammadrezaee
 
-<!--
-**khosro-mr/khosro-mr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Accountant | Frontend Developer
 
-Here are some ideas to get you started:
+## Skills 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Skills | Technologies  |
+| :--- | :--- |
+| Pkg / Env Managers| [![Conda](https://img.shields.io/badge/-Conda-05122A?style=flat-square&logo=anaconda&color=353535)](https://docs.conda.io/)  [![Venv](https://img.shields.io/badge/-Venv-05122A?style=flat-square&logo=python&color=353535)](https://docs.python.org/3/library/venv.html)  [![virtualenv](https://img.shields.io/badge/-virtualenv-05122A?style=flat-square&logo=python&color=353535)](https://virtualenv.pypa.io/)  [![pip](https://img.shields.io/badge/-pip-05122A?style=flat-square&logo=python&color=353535)](https://pip.pypa.io/)  [![Poetry](https://img.shields.io/badge/-Poetry-05122A?style=flat-square&logo=python&color=353535)](https://python-poetry.org/) |
+| Python |  [![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535)](https://www.python.org/)  [![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535)](https://pandas.pydata.org/)  [![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=NumPy&color=353535)](https://numpy.org/)  [![Statsmodels](https://img.shields.io/badge/-Statsmodels-05122A?style=flat-square&logo=Python&color=353535)](https://www.statsmodels.org/)  [![ipywidgets](https://img.shields.io/badge/-ipywidgets-05122A?style=flat-square&logo=Jupyter&color=353535)](https://ipywidgets.readthedocs.io/)  [![GeoPandas](https://img.shields.io/badge/-GeoPandas-05122A?style=flat-square&logo=Python&color=353535)](https://geopandas.org/)  [![fastparquet](https://img.shields.io/badge/-fastparquet-05122A?style=flat-square&logo=Python&color=353535)](https://fastparquet.readthedocs.io/) |
+| SQL |  [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535)](https://www.mysql.com/)   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535)](https://www.postgresql.org/)  [![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat-square&logo=microsoft-sql-server&color=353535)](https://www.microsoft.com/en-us/sql-server)  [![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat-square&logo=mariadb&color=353535)](https://mariadb.org/)  [![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat-square&logo=sqlite&color=353535)](https://www.sqlite.org/)  [![TPC Benchmarks](https://img.shields.io/badge/-TPC%20Benchmarks-05122A?style=flat-square&logo=benchmark&color=353535)](http://www.tpc.org/)  |
+| R  | [![R](https://img.shields.io/badge/-R-05122A?style=flat-square&logo=R&color=353535)](https://www.r-project.org/)   [![dplyr](https://img.shields.io/badge/-dplyr-05122A?style=flat-square&logo=R&color=353535)](https://dplyr.tidyverse.org/)   [![caret](https://img.shields.io/badge/-caret-05122A?style=flat-square&logo=R&color=353535)](https://topepo.github.io/caret/index.html)   [![ggplot2](https://img.shields.io/badge/-ggplot2-05122A?style=flat-square&logo=R&color=353535)](https://ggplot2.tidyverse.org/)   |
+| Git |  [![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535)](https://git-scm.com/)   [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=GitHub&color=353535)](https://github.com/)   [![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat-square&logo=GitLab&color=353535)](https://gitlab.com/)  |
+| Visualization | [![Draw.io](https://img.shields.io/badge/-Draw.io-05122A?style=flat-square&logo=diagrams.net&color=353535)](https://www.diagrams.net/)  [![Visio](https://img.shields.io/badge/-Visio-353535?style=flat-square&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/visio/)  [![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Python&color=353535)](https://matplotlib.org/)   [![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat-square&logo=Python&color=353535)](https://seaborn.pydata.org/)   [![ggplot2](https://img.shields.io/badge/-ggplot2-05122A?style=flat-square&logo=R&color=353535)](https://ggplot2.tidyverse.org/)  |
+| Editors |  [![Cursor](https://img.shields.io/badge/-Cursor-05122A?style=flat-square&logo=cursor&color=353535)](https://cursor.sh/)  [![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=Visual%20Studio%20Code&color=353535)](https://code.visualstudio.com/)   [![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat-square&logo=Google%20Colab&color=353535)](https://colab.research.google.com/)  [![JupyterLab](https://img.shields.io/badge/-JupyterLab-05122A?style=flat-square&logo=Jupyter&color=353535)](https://jupyter.org/)   [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat-square&logo=Jupyter&color=353535)](https://jupyter.org/)   [![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat-square&logo=PyCharm&color=353535)](https://www.jetbrains.com/pycharm/)  |
+

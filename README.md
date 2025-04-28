@@ -5,7 +5,7 @@
 
 My GitHub repo lists available at [Stars](https://github.com/khosro-mr?tab=stars) tab. They are a collection of curated repos for a quick project setup and code organization. 
   - [Frontend](https://github.com/stars/khosro-mr/lists/frontend) The goal is to replica [www.SaveBirds.app](https://savebirds.app/).
-  - [Personal Branding](https://github.com/stars/0-mostafa-rezaee-0/lists/personal-branding) A polished GitHub profile to showcase your skills and story effectively.
+  - [Personal Branding](https://github.com/stars/khosro-mr/lists/personal-branding) A polished GitHub profile to showcase your skills and story effectively.
   - [Inspiration](https://github.com/stars/khosro-mr/lists/inspiration) A Roadmap for future projects.
 
 ---

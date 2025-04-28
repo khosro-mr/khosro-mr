@@ -3,7 +3,7 @@
 ### Data Analyst | Accountant | Frontend Developer
 ---
 
-Enjoy [My GitHub Templates](https://github.com/stars/0-mostafa-rezaee-0/lists/templates) repos available at [Stars](https://github.com/0-mostafa-rezaee-0?tab=stars) tab. They are a collection of curated templates for a quick project setup and code organization. Some repositories appear in multiple categories due to the interdisciplinary nature of the topics and the overlap between categories. 
+My GitHub repo lists available at [Stars](https://github.com/khosro-mr?tab=stars) tab. They are a collection of curated repos for a quick project setup and code organization. 
   - [Frontend](https://github.com/stars/khosro-mr/lists/frontend) The goal is to replica [www.SaveBirds.app](https://savebirds.app/).
   - [Personal Branding](https://github.com/stars/0-mostafa-rezaee-0/lists/personal-branding) A polished GitHub profile to showcase your skills and story effectively.
   - [Inspiration](https://github.com/stars/khosro-mr/lists/inspiration) A Roadmap for future projects.

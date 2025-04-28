@@ -1,4 +1,4 @@
-## Khosro Mohammadrezaee
+## Khosro Mohammadrezaee [![Linkedin](https://img.shields.io/badge/-blue?label=Linkedin&style=social&logo=Linkedin)](https://www.linkedin.com/in/khosro-mr/)
 
 ### Data Analyst | Frontend Developer | Accountant 
 ---

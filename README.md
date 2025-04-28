@@ -1,6 +1,6 @@
 ## Khosro Mohammadrezaee
 
-### Data Analyst | Accountant | Frontend Developer
+### Data Analyst | Frontend Developer | Accountant 
 ---
 
 My GitHub repo lists available at [Stars](https://github.com/khosro-mr?tab=stars) tab. They are a collection of curated repos for a quick project setup and code organization. 

@@ -1,12 +1,12 @@
-## Khosro Mohammadrezaee [![Linkedin](https://img.shields.io/badge/-blue?label=Linkedin&style=social&logo=Linkedin)](https://www.linkedin.com/in/khosro-mohammadrezaee/)
+## Khosro Rezaee [![Linkedin](https://img.shields.io/badge/-blue?label=Linkedin&style=social&logo=Linkedin)](https://www.linkedin.com/in/khosro-rezaee/)
 
 ### Data Analyst | Frontend Developer | Accountant 
 ---
 
-My GitHub repo lists available at [Stars](https://github.com/khosro-mr?tab=stars) tab. They are a collection of curated repos for a quick project setup and code organization. 
-  - [Frontend](https://github.com/stars/khosro-mr/lists/frontend) The goal is to replica [www.SaveBirds.app](https://savebirds.app/)
-  - [Personal Branding](https://github.com/stars/khosro-mr/lists/personal-branding) A polished GitHub profile to showcase your skills and story effectively.
-  - [Inspiration](https://github.com/stars/khosro-mr/lists/inspiration) A Roadmap for future projects.
+My GitHub repo lists available at [Stars](https://github.com/khosro-rezaee?tab=stars) tab. They are a collection of curated repos for a quick project setup and code organization. 
+  - [Frontend](https://github.com/stars/khosro-rezaee/lists/frontend) The goal is to replica [www.SaveBirds.app](https://savebirds.app/)
+  - [Personal Branding](https://github.com/stars/khosro-rezaee/lists/personal-branding) A polished GitHub profile to showcase your skills and story effectively.
+  - [Inspiration](https://github.com/stars/khosro-rezaee/lists/inspiration) A Roadmap for future projects.
 
 ---
 

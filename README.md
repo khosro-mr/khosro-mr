@@ -1,4 +1,4 @@
-## Khosro Rezaee [![Linkedin](https://img.shields.io/badge/-blue?label=Linkedin&style=social&logo=Linkedin)](https://www.linkedin.com/in/khosro-rezaee/)
+## Khosro Rezaee [![Linkedin](https://img.shields.io/badge/-blue?label=Linkedin&style=social&logo=Linkedin)](https://www.linkedin.com/in/khosro-rezaee2/)
 
 ### Data Analyst | Frontend Developer | Accountant 
 ---
